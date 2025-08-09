@@ -22,7 +22,7 @@ static void djui_panel_main_quit(struct DjuiBase* caller) {
 }
 
 void djui_panel_main_create(struct DjuiBase* caller) {
-    struct DjuiThreePanel* panel = djui_panel_menu_create("\\#ff0800\\SM\\#1be700\\64\\#00b3ff\\EX\n\\#ffef00\\COOP");
+    struct DjuiThreePanel* panel = djui_panel_menu_create("\\#ff0800\\MULTI\\#1be700\\PLAYER\n\\#ffef00\\64");
     {
         struct DjuiBase* body = djui_three_panel_get_body(panel);
         {
