@@ -17,7 +17,7 @@
 
 #define MAX_LAUNCH_CMD (MAX_PATH + 12)
 
-static int64_t applicationId = 752700005210390568;
+static int64_t applicationId = 1403538537864761465;
 struct DiscordApplication app = { 0 };
 bool gDiscordInitialized = false;
 bool gDiscordFailed = false;
