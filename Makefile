@@ -64,7 +64,7 @@ PROFILE ?= 0
 # Compile headless
 HEADLESS ?= 0
 # Enable Game ICON
-ICON ?= 1
+ICON ?= 0
 # Use .app (mac only)
 USE_APP ?= 1
 # Various workarounds for weird toolchains
