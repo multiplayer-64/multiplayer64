@@ -6,8 +6,6 @@ Run `./extract_assets.py --clean && make clean` or `make distclean` to remove RO
 
 ## How to Play
 
-[Instructions on how to play are available on the wiki.](https://github.com/djoslin0/sm64ex-coop/wiki/How-to-Play)
-
 - The easiest way is to download [coop-compiler](https://github.com/coop-compiler/coop-compiler/releases/latest/download/coop-compiler.exe)
 
 ## Goal (accomplished)
@@ -19,7 +17,7 @@ Unlike previous multiplayer projects, this one synchronizes enemies and events. 
 sm64ex-coop is moddable via Lua, similar to Roblox and Garry's Mod's Lua APIs. To get started, click [here](docs/lua/lua.md) to see the Lua documentation.
 
 ## Contribution
-If you want to make a PR to sm64ex-coop, join the [Discord server](https://discord.gg/TJVKHS4) and communicate with us about your PR. We work on new sm64ex-coop releases on a private repo and push all of our changes to the main repo once we've added everything, so if you contact us we can give you access to that repo where you can PR your changes there.
+If you want to make a PR to sm64ex-coop, join the [Discord server](https://discord.gg/ZZxVpj3Ggv) and communicate with us about your PR. We work on new sm64ex-coop releases on a private repo and push all of our changes to the main repo once we've added everything, so if you contact us we can give you access to that repo where you can PR your changes there.
 
 ## Discord
-[https://discord.gg/TJVKHS4](https://discord.gg/TJVKHS4)
+[https://discord.gg/ZZxVpj3Ggv](https://discord.gg/ZZxVpj3Ggv)
