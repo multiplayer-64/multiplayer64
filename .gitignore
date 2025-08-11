@@ -47,7 +47,6 @@
 
 # datadump
 /tools/ddump/*
-/tools/*.ver
 
 # Text editor remnants
 *.swp
