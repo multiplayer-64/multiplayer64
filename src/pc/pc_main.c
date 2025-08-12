@@ -331,9 +331,9 @@ void main_func(void) {
     char* version = get_version();
     char window_title[96] = { 0 };
 #ifdef GIT_HASH
-    snprintf(window_title, 96, "sm64ex-coop: %s [%s]", version, GIT_HASH);
+    snprintf(window_title, 96, "multiplayer64: %s [%s]", version, GIT_HASH);
 #else
-    snprintf(window_title, 96, "sm64ex-coop: %s", version);
+    snprintf(window_title, 96, "multiplayer64: %s", version);
 #endif
 
     gfx_init(wm_api, rendering_api, window_title);
