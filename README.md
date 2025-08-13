@@ -16,4 +16,4 @@ Unlike previous multiplayer projects, this one synchronizes enemies and events. 
 multiplayer64 is moddable via Lua, similar to Roblox and Garry's Mod's Lua APIs. To get started, click [here](docs/lua/lua.md) to see the Lua documentation.
 
 ## Discord
-[https://discord.gg/UGBugyPkwd](https://discord.gg/UGBugyPkwd)
+[https://discord.gg/R5sWpxYjqe](https://discord.gg/R5sWpxYjqe)
