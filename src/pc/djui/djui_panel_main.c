@@ -19,7 +19,7 @@ void djui_panel_main_create(struct DjuiBase* caller) {
     f32 bodyHeight = 64 * 4 + 16 * 3;
     
     struct DjuiBase* defaultBase = NULL;
-    struct DjuiThreePanel* panel = djui_panel_menu_create(bodyHeight, "\\#ff0800\\SM\\#1be700\\64\\#00b3ff\\EX\n\\#ffef00\\COOP");
+    struct DjuiThreePanel* panel = djui_panel_menu_create(bodyHeight, "\\#ff0800\\MUL\\#1be700\\TI\\#00b3ff\\PLAYER\n\\#ffef00\\64");
     {
         struct DjuiFlowLayout* body = (struct DjuiFlowLayout*)djui_three_panel_get_body(panel);
         {
